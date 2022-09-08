@@ -1,3 +1,3 @@
 # JS_Switchers
-https://Ledich19.github.io/js_switchers/js-switchers-link
+[START](https://github.com/Ledich19/js-switchers/blob/main/js-switchers-cv.md)
 
