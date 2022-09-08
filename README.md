@@ -1,3 +1,3 @@
 # JS_Switchers
-https://Ledich19.github.io//JS_Switchers/README
+https://Ledich19.github.io/js_switchers/js-switchers-link
 
